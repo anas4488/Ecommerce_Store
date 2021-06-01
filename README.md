@@ -1,3 +1,3 @@
 # Ecommerce_Store
 
-> This is a Ecommerce store made by django.
+> This is a Ecommerce store made with django.

@@ -4,7 +4,7 @@ from .models import *
 
 def categories(request):
     return(
-        {'categries':Category.objects.all()}
+        {'categories':Category.objects.all()}
     )
 
 def all_products(request):

@@ -16,3 +16,5 @@
 > Ninth commit: products/detail.html, views.py 
 
 > Tenth commit: Readme.md updated
+
+> Tenth commit(#2): db, media/images/pic_6.jpg, models.py(get_absolute_url) 

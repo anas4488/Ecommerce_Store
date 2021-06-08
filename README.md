@@ -14,3 +14,5 @@
 > Seventh commit: home.html, base.html
 
 > Ninth commit: products/detail.html, views.py 
+
+> Tenth commit: Readme.md updated

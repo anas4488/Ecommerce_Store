@@ -1,6 +1,6 @@
 # Ecommerce_Store
 
-> This is a Ecommerce store made with **django**.
+> This is a Ecommerce store application made with **django**.
 > Tutorial by **Very academy(YouTube)**.
 
 # Commits made :
@@ -22,3 +22,4 @@
 > Eleventh commit: urls.py, views.py, models.py, store/products/category.html
 
 > Eleventh commit: urls.py, views.py, models.py, store/products/category.html, tests/test_views.py
+

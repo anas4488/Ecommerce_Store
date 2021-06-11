@@ -23,3 +23,7 @@
 
 > Eleventh commit: urls.py, views.py, models.py, store/products/category.html, tests/test_views.py
 
+> Twelfth commit: Readme.md
+
+> Thirteenth commit: settings.py, views.py, context_processors.py
+

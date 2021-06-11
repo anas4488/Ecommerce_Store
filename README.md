@@ -25,5 +25,5 @@
 
 > Twelfth commit: Readme.md
 
-> Thirteenth commit: settings.py, views.py, context_processors.py
+> Thirteenth commit: settings.py, views.py, store/context_processors.py
 

@@ -27,3 +27,6 @@
 
 > Thirteenth commit: settings.py, views.py, store/context_processors.py .
 
+> Fourteenth commit: Readme.md, requirements.txt .
+
+

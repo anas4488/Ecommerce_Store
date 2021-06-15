@@ -7,7 +7,7 @@
 
 > Third commit: models.py, settings.py, urls.py .
 
-> Fourth commit: admin.py, tests.py, coverage package .
+> Fourth commit: admin.py, tests.py, coverage package(testing report) .
 
 > Fifth commit: READEME.md .
 

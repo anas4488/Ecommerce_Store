@@ -30,3 +30,6 @@
 > Fourteenth commit: Readme.md, requirements.txt .
 
 > Fifteenth commit: templates/store/base.html .
+
+> Sixteenth commit: Readme.md .
+

@@ -33,3 +33,4 @@
 
 > Sixteenth commit: Readme.md .
 
+> Seventeenth commit: store/models.py .

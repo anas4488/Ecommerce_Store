@@ -6,7 +6,7 @@ from django.test import Client, RequestFactory, TestCase
 from django.urls import reverse
 
 from store.models import Category, Product
-from store.views import product_all
+# from store.views import product_all
 
 
 @skip("demonstrating skipping")

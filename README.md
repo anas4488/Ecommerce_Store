@@ -34,3 +34,5 @@
 > Sixteenth commit: Readme.md .
 
 > Seventeenth commit: store/models.py .
+
+> Eighteenth commit: store/test/test_views.py .

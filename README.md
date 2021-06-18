@@ -36,3 +36,6 @@
 > Seventeenth commit: store/models.py .
 
 > Eighteenth commit: store/test/test_views.py .
+
+> Nineteenth commit: core/settings.py, core/urls.py, basket/ .
+

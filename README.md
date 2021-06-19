@@ -42,3 +42,7 @@
 > Nineteenth commit (#2) : core/settings.py, core/urls.py, basket/urls.py, basket/views.py, templates/store/detail.html, template/store/basket .
 
 > Nineteenth commit (#3) : core/settings.py, core/urls.py, basket/urls.py, basket/views.py, templates/store/detail.html, template/store/basket , templates/store/basket/summary.html, templates/store/products/detail.html .
+
+> Twentieth commit: core/urls.py, templates/store/base.html .
+
+

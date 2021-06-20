@@ -45,4 +45,4 @@
 
 > Twentieth commit: core/urls.py, templates/store/base.html .
 
-
+> Twentyfirst commit: templates/store/home.html, templates/store/base.html

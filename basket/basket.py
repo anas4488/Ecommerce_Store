@@ -12,4 +12,11 @@ class Basket():
         if 'skey' not in request.session:
             basket = self.session['skey'] = {'number':123456}
         self.basket = basket
-         
+        
+    def add(self,request):
+
+        """
+        Adding and updating the users basket session data
+        """
+        product_id = product.id
+        

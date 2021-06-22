@@ -1,6 +1,6 @@
 # Ecommerce_Store
 
-> This is a Ecommerce store application made with **django**.
+> This is a **Ecommerce store application** made with **django**.
 > Tutorial by **Very academy(YouTube)**.
 
 # Commits made :

@@ -30,7 +30,7 @@ class Basket():
         Collect the product_id in the session data to query the database and return products.
         """
         product_ids = self.basket.keys()
-        
+         
 
 
 

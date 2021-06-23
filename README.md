@@ -50,3 +50,6 @@
 > Twentysecond commit: basket/basket.py .
 
 > Twentythird commit: basket/context_processors.py, basket/basket.py, basket/urls.py, basket/views.py, templates/store/base.html, templates/store/products/detail.html .
+
+> Twentyfourth commit: templates/store/home.html, templates/store/basket/summary.html, basket/basket.py, basket/views.py .
+

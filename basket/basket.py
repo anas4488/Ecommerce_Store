@@ -25,7 +25,15 @@ class Basket():
 
         self.session.modified = True
 
+    def __iter__(self):
+        """
+        Collect the product_id in the session data to query the database and return products.
+        """
+        product_ids = self.basket.keys()
         
+
+
+
     def __len__(self):
         """
         get the basket data and count the qty

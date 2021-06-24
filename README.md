@@ -53,3 +53,5 @@
 
 > Twentyfourth commit: templates/store/home.html, templates/store/basket/summary.html, basket/basket.py, basket/views.py .
 
+> Twentyfifth commit: templates/store/basket/summary.html, basket/basket.py" .
+

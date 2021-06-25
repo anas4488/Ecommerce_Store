@@ -55,3 +55,5 @@
 
 > Twentyfifth commit: templates/store/basket/summary.html, basket/basket.py" .
 
+> TwentySixth commit: templates/store/basket/summary.html, basket/basket.py, basket/urls.py, basket/views.py .
+

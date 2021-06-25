@@ -51,10 +51,13 @@ class Basket():
         get the basket data and count the qty
         """
 
-        return sum(item['qty'] for item in self.basket.values())
+        return sum(item['qty'] for item in self.basket.values() if item['qty'])
 
     def get_total_price(self):
-        return sum(Decimal(item['price'])*item['qty'] for item in self.basket.values())
+        def foobar(self):
+            return self.basket.values()
+
+        return sum(Decimal(item['price'])*item['qty'] for item in foobar(self))
 
 
     def delete(self, product):

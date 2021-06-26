@@ -54,7 +54,7 @@ class Basket():
         return sum(item['qty'] for item in self.basket.values() if item['qty'])
 
     def get_total_price(self):
-        return sum(item['price'] * item['qty'] for item in self.basket.values() if item['qty'])
+        return sum(Decimal(item['price']) * item['qty'] for item in self.basket.values() if item['qty'])
 
 
     def delete(self, product):
@@ -64,6 +64,7 @@ class Basket():
         product_id = str(product)
 
         if product_id in self.basket:
+            print(product_id)
             del self.basket[product_id]
             
         self.save()

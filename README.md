@@ -57,3 +57,5 @@
 
 > TwentySixth commit: templates/store/basket/summary.html, basket/basket.py, basket/urls.py, basket/views.py  .
 
+> TwentySeventh commit: basket/basket.py, Readme.md (End of part_02 of the Ecommerce playlist) . 
+

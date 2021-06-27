@@ -21,9 +21,10 @@ class Basket():
         """
         product_id = product.id
 
-        if product_id not in self.basket:
-            self.basket[product_id] = {
-                'price': str(product.price), 'qty': int(qty)}
+        if product_id in self.basket:
+            self.basket[product_id]['qty'] = qty
+        else:
+            self.basket[product_id] = {'price': str(product.price), 'qty': int(qty)}
 
         #self.session.modified = True
         self.save()

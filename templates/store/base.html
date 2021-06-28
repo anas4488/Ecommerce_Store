@@ -41,10 +41,10 @@
                                     </svg></i>
                             </a>
                             <ul class="dropdown-menu rounded-0 border-0" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">All</a></li>
+                                <li><a class="dropdown-item" href="{% url "store:all_products" %}">All</a></li>
                                 {% for c in categories %}
                                 <li {% if category.slug == c.slug %}class="selected" {% endif %}>
-                                    <a class="dropdown-item" href="#">{{ c.name|title }}</a>
+                                    <a class="dropdown-item" href="{{ c.get_absolute_url }}">{{ c.name|title }}</a>
                                 </li>
                                 {% endfor %}
                             </ul>
@@ -104,7 +104,7 @@
                         <span class="fs15 fw500">Account</span>
                     </a>
 
-                    <a type="button" role="button" href="#"
+                    <a type="button" role="button" href="{% url 'basket:basket_summary' %}"
                         class="btn btn-outline-secondary border-0 basket-btn">
 
                         {% with total_qty=basket|length %}

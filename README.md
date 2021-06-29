@@ -61,4 +61,4 @@
 
 > TwentyEight commit: store/core/css/base.css, templates/store/base.html, core/settings.py, static/basket/, templates/store/products/category.html, templates/store/products/detail.html, templates/basket/summary.html, account/, accounts/models.py" .
 
-
+> TwentyNinth commit: account/models.py, account/admin.py, core/settings, store/models.py, store/migrations, account/migrations, account/forms.py .

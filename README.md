@@ -63,5 +63,6 @@
 
 > TwentyNinth commit: account/models.py, account/admin.py, core/settings, store/models.py, store/migrations, account/migrations, account/forms.py .
 
-> Thirtieth commit: account/forms.py, account/token.py, account/views.py,account/migrations, store/migrations, templates/account/
+> Thirtieth commit: account/forms.py, account/token.py, account/views.py,account/migrations, store/migrations, templates/account/ .
+
 

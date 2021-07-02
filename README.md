@@ -65,4 +65,5 @@
 
 > Thirtieth commit: account/forms.py, account/token.py, account/views.py,account/migrations, store/migrations, templates/account/ .
 
-> Thirtyfirst commit: account/urls.py, account/views.py, core/urls.py, templates/account/registration/register.html, account/forms.py, core/settings.py, templates/account/registration/activation_invalid.html .
+> Thirtyfirst commit: account/urls.py, account/views.py, core/urls.py, templates/account/registration/register.html, account/forms.py, core/settings.py, templates/account/registration/activation_invalid.html  .
+

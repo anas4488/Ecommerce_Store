@@ -2,7 +2,7 @@ from django.contrib.auth.models import (AbstractBaseUser, BaseUserManager, Permi
 from django.db import models
 from django_countries.fields import CountryField
 from django.utils.translation import gettext_lazy as _
-
+from django.core.mail import send_mail
 
 class CustomAccountManager(BaseUserManager):
     def create_superuser(self, email, user_name, password, **other_fields):
@@ -56,6 +56,14 @@ class UserBase(AbstractBaseUser, PermissionsMixin):
         verbose_name = "Accounts"
         verbose_name_plural = "Accounts"
 
-        def __str__(self):
-            return self.user_name
+    def email_user(self, subject, message):
+        send_mail(
+            subject,
+            message,
+            'l@1.com',
+            [self.email],
+            fail_silently=False,
+        )
+    def __str__(self):
+        return self.user_name
             

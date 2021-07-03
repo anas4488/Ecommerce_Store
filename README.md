@@ -67,6 +67,7 @@
 
 > Thirtyfirst commit: account/urls.py, account/views.py, core/urls.py, templates/account/registration/register.html, account/forms.py, core/settings.py, templates/account/registration/activation_invalid.html  .
 
-> ThirtySecond commit: account/models.py, account/views.py, templates/account/user/, core/settings.py, templates/account/registration/activation_email.html 
+> ThirtySecond commit: account/models.py, account/views.py, templates/account/user/, core/settings.py, templates/account/registration/activation_email.html .
+
 
 

@@ -31,7 +31,7 @@ def account_register(request):
             user.email = registerForm.cleaned_data['email']
             user.set_password(registerForm.cleaned_data['password'])
             user.is_active = False
-            #user.save()
+            user.save()
             # Setup email
             current_site = get_current_site(request)
             subject = 'Activate your Account'

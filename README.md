@@ -69,6 +69,7 @@
 
 > ThirtySecond commit: account/models.py, account/views.py, templates/account/user/, core/settings.py, templates/account/registration/activation_email.html  .
 
-> ThirtyThird commit: account/models.py, account/migrations/, account/forms.py, account/views.py
+> ThirtyThird commit: account/models.py, account/migrations/, account/forms.py, account/views.py .
+
 
 

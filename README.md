@@ -71,6 +71,6 @@
 
 > ThirtyThird commit: account/models.py, account/migrations/, account/forms.py, account/views.py .
 
-> ThirtyFourth commit: account/views.py .
+> ThirtyFourth commit: account/views.py , Readme.md .
 
 
